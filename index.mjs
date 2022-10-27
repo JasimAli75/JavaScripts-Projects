@@ -4,6 +4,6 @@ const prompt=PromptSync();
 
 // var name = prompt("what is your name");
 // console.log(name);
-const num = prompt("enter your number please");
+const num = prompt("enter your number ");
 console.log('you number + 4 =');
 console.log(Number(num)+4);
